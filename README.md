@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java Backend Development<br><br>👨‍💻 My Portfolio: https://btcpatil.github.io/<br><br>💬 Ask me about Java, JavaScript, Data Structure & Algorithm<br><br>📫 How to reach me 003patilmanjunath@gmail.com
+🌱 I’m Java Full Stack Development<br><br>👨‍💻 My Portfolio: https://btcpatil.github.io/<br><br>💬 Ask me about Java, JavaScript, Data Structure & Algorithm<br><br>📫 How to reach me 003patilmanjunath@gmail.com
 
 
 ## 🌐 Socials:
